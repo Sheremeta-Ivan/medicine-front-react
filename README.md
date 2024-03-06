@@ -25,5 +25,5 @@ This is a simple web application for a pharmacy store where users can browse med
 
 ## Backend
 
-Link to repository: [Pharmacy Store and Medicine App Backend](https://github.com/Sheremeta-Ivan/medicine-backend-node)
-Render link to the project: [Pharmacy Store and Medicine App](https://medicine-backend-node.onrender.com/api/)
+- Link to repository: [Pharmacy Store and Medicine App Backend](https://github.com/Sheremeta-Ivan/medicine-backend-node)
+- Render link to the project: https://medicine-backend-node.onrender.com/api/
