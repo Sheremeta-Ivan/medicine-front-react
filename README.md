@@ -1,8 +1,29 @@
-# React + Vite
+# Pharmacy Store and Medicine App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple web application for a pharmacy store where users can browse medicines, add them to the cart, and submit an order form.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Backend](#beckend)
+
+## Features
+
+- Browse and search for medicines
+- Add medicines to the shopping cart
+- Submit an order form with selected medicines
+
+## Technologies Used
+
+- React for the front-end
+- Node.js for the back-end
+- React Router for routing
+- Zustand for state management
+- Tailwind CSS for styling
+- MongoDB for the database
+
+## Backend
+
+Link to repository: [Pharmacy Store and Medicine App Backend](<[link](https://github.com/Sheremeta-Ivan/medicine-backend-node)>)
+Render link to the project: [Pharmacy Store and Medicine App](<[link](https://medicine-backend-node.onrender.com/api/)>)
