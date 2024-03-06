@@ -6,7 +6,7 @@ This is a simple web application for a pharmacy store where users can browse med
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Backend](#beckend)
+- [Backend](#backend)
 
 ## Features
 
